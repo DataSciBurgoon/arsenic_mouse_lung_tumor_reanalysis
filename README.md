@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/18586/DataSciBurgoon/arsenic_mouse_lung_tumor_reanalysis.svg)](https://zenodo.org/badge/latestdoi/18586/DataSciBurgoon/arsenic_mouse_lung_tumor_reanalysis)
+
 # README
 A Jupyter Notebook project that lays out a reanalysis of lung tumor incidence data in mice exposed to inorganic arsenic.
 
